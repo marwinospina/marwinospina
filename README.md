@@ -20,6 +20,6 @@ SQL | Python | Tableau | Statistics | Excel | Google Analytics
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marwin_ospina/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/profile/marwinospina#!/)&nbsp;&nbsp;&nbsp;&nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:marwinospina@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftword.svg' alt='microsoftword' height='40'>](https://github.com/marwinospina/MarwinOspina/blob/main/Marwin%20Ospina%20Resume%20copy.pdf)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftword.svg' alt='microsoftword' height='40'>](https://github.com/marwinospina/marwinospina/blob/main/Marwin%20Ospina%20Resume.pdf)  
 
 
