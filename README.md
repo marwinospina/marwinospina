@@ -12,7 +12,7 @@ SQL | Python | Tableau | Statistics | Excel | Google Analytics
 
 ### **Currently:**
 
-- 🔭 I’m working on Netflix Catalog dataset.
+<!--  - 🔭 I’m working on Netflix Catalog dataset. -->
 - 📚 I'm learning SAS Programming 1, and IBM Data Science Professional Certificate
 
 <br />
