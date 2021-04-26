@@ -6,7 +6,7 @@ My name is Marwin Ospina and I am a Data Analyst from New York City.
 
 ### **Skills:**
 
-SQL | Python | Tableau | Statistics | Excel | Google Analytics
+SQL | Python | Tableau | Statistics | Advanced Excel | Google Analytics
 
 <br />
 
