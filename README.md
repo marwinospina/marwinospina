@@ -1,12 +1,12 @@
 ## Hey there and welcome to my profile! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/marwinospina/marwinospina/blob/main/tech_memoji.png" width="60" height="60" />
 
-My name is Marwin Ospina and I am a Financial Data Analyst from New York City.
+My name is Marwin Ospina and I am a Financial Data Analyst/Engineer from New York City.
 
 <br />
 
 ### **Skills:**
 
-SQL | Python | Tableau | Statistics | Advanced Excel | Google Analytics
+SQL | Python | Tableau | Statistics | Advanced Excel | Google Analytics | AWS | Terraform | Apache Airflow
 
 <br />
 
